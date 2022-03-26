@@ -1,7 +1,5 @@
 # Web testing with Robot Framework and SeleniumLibrary
-
-## Web Environment :
-https://www.demoblaze.com
+### This is a project to test automatically some features on the website https://www.demoblaze.com
 
 ### Technologies used :
 
@@ -18,9 +16,11 @@ https://www.demoblaze.com
 3. **Orders**
 
 ### Running tests: 
-The [test cases](https://github.com/havidri/WebsiteAutomation-Demoblaze/tree/master/TestSuite) are located in the TestSuite directory. They can be executed using the robot command:
+The [test cases](https://github.com/havidri/WebsiteAutomation-Demoblaze/tree/master/TestSuite) are located in the TestSuite directory. They can be executed using the `robot` command:
 
-`robot TestSuite\`
+```
+robot TestSuite\
+```
 
 
 ### Generated results
